@@ -15,18 +15,6 @@ A complete **end-to-end Machine Learning project** that detects fraudulent finan
 
 Enter transaction details → Click Analyze → Know instantly if it's **FRAUD** or **SAFE** ✅
 
----
-
-## 📸 Screenshots
-
-| Input Form | Prediction Result |
-|---|---|
-| ![App Screenshot 1](screenshots/screenshot1.png) | ![App Screenshot 2](screenshots/screenshot2.png) |
-
-> 🔴 The model flagged a TRANSFER transaction with **99.99% fraud probability**
-
----
-
 ## 📊 Model Performance
 
 | Metric | Score |
