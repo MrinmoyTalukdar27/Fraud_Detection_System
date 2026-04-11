@@ -188,6 +188,7 @@ Run main.ipynb completely first — it generates fraud_detection_pipeline.pkl
 I build real projects to learn real skills. This is my first end-to-end ML project and definitely not my last!
 
 LinkedIn:-www.linkedin.com/in/mrinmoy-talukdar-5867ab3b9
+
 Medium:-https://medium.com/@mrinmoytalukdargcu
 
 ---
